@@ -1,0 +1,46 @@
+Plans, Steps, & Opportunities 
+This list helps keep data up to date in CRM, gift officers will be able to visually see what plans needs to be updated or if they have a solicitation ask coming up. 
+
+Use/Copy the Query – Plans and Steps MGO (includes any managed prospects or any primary or secondary plan manager is an MGO) → Use the export definition for the report to update Headers.
+
+First Sort: 
+You want to make sure to delete anyone who does not have someone on the team listed as their Prospect Manager, or a plan manager of any kind. 
+Tip: Hide everything that does not have to do with Managers (Keep Prospect Manager, Plan manager one, Secondary plan manager 1, Plan manager 2, or Secondary Plan manager 2)  
+Sort by Prospect Manager → delete all rows that do not have an MGO as a manger of any kind. 
+
+Second Sort: Plan 1 
+Tip: Hide everything that does not have to do with the Plan 1 listed 
+Sort by Plan Status 1 → Highlight any part of the PLAN (NOT the full row) in orange if they have a status of Accepted, Rejected, Unqualified, or Cancelled →  
+These are plans that need to be marked as Historical.  
+Keep the Plan Status 1 sort then add a sort by expected ask date → looking at the Qualified plans of Plan 1 → highlight any plan in red that has an Expected ask date before the date you are pulling this list or have no date → highlight any plan in yellow that has an Expected ask date that is happening within the current month  
+Keep the Plan Status 1 sort then add a sort by response date → looking at the response pending plans of Plan 1 → highlight any plan in red that has a response date before the date you are pulling this list or have no date → highlight any plan in yellow that has a response date that is happening within the current month  
+
+Clear all sort filter → Sort by Plan Name → Ignore FPM Display Only → Highlight any plan that has a place holder plan in orange → These place holder plans can be identified by if they have a past FY but there is not other information on the plan, such as an expected ask date or response date.  
+If there is time → unhighlight any PLAN that has nothing to do with an MGO  →  
+For example: If Name1 is the prospect manager, but Name2 is Plan Manager and Name1 is not a Plan Manager at all, do not highlight that plan. 
+
+Unhide all columns 
+
+Third Sort: Plan 2 
+Tip: Hide everything that does not have to do with the Plan 2 listed 
+Sort by Plan Status 2 → Highlight any part of the PLAN (NOT the full row) in orange if they have a status of Accepted, Rejected, Unqualified, or Cancelled →  
+These are plans that need to be marked as Historical.  
+Keep the Plan Status 2 sort then add a sort by expected ask date → looking at the Qualified plans of Plan 1 → highlight any plan in red that has an Expected ask date before the date you are pulling this list or have no date → highlight any plan in yellow that has an Expected ask date that is happening within the current month  
+Keep the Plan Status 2 sort then add a sort by response date → looking at the response pending plans of Plan 2 → highlight any plan in red that has a response date before the date you are pulling this list or have no date → highlight any plan in yellow that has a response date that is happening within the current month  
+Clear all sort filter → Sort by Plan Name 2 → Ignore FPM Display Only → Highlight any plan that has a place holder plan in orange → These place holder plans can be identified by if they have a past FY but there is no other information on the plan, such as an expected ask date or response date.  
+If there is time → unhighlight any PLAN that has nothing to do with an MGO  
+For example: If Name1 is the prospect manager, but Name2 is Plan Manager and Name1 is not a Plan Manager at all, do not highlight that plan. 
+
+Unhide all columns 
+
+Forth Sort: Steps 
+Sort by Overdue Step Expected Date → Highlight all overdue steps in red → remove sort → sort by next step expected date → highlight yellow if due in the coming months.  
+Distribution  
+Tip: Hide everything that does not have to do with Managers (Keep Prospect Manager, Plan manager 1, Secondary plan manager 1, Plan manager 2, or Secondary Plan manager 2)  
+Sort by Prospect Manger (PM) → then Plan Manager 1 (this helps just to organize the list) 
+
+Make tabs for each PM on our team.  
+
+Copy and paste each plan (row) that has to do with the gift officer into their respective tab for example if Name1 is not the PM for someone but is the Secondary Manager for a plan make sure that plan is part of Name1’s tab – Plans (rows) can exist in multiple MGO tabs if appropriate.  
+
+File Save As 
